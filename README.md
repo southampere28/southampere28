@@ -8,3 +8,6 @@ I'm passionate about mobile development, AI, and IoT. Currently, I’m focused o
 - 💬 Ask me about  Flutter, Firebase, IoT, and AI-based image processing.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pramudya-putra-pratama/)
 - 😄 Pronouns: He/Him
+
+## Stats 📘
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=southampere28&theme=xcode)](https://github.com/southampere28/github-readme-activity-graph)
